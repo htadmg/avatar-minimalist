@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@300;400;500&family=Roboto+Condensed:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Phudu', cursive;
+    
+}
+html{
+    background-color: rgba(211, 211, 211, 0.616);
+}
+header{
+    background-image: url(https://i.imgur.com/JNg2F7i.jpeg);
+    background-size: contain;
+    background-position: left top;
+    background-repeat: no-repeat;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.322);    
+    
+    height: 100px;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+
+
+header a {
+    padding: 8px; 
+    color: black; 
+    text-decoration: none;
+
+}
+header a:hover{
+    background-color: rgb(112, 112, 112);
+    color: white;
+    transition: .5s;
+    border-radius:5px;
+}
+main{
+    
+    margin: auto;
+    max-width: 900px;
+    background-color: white;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.322);
+}
+h1{
+    padding: 15px;
+    color: rgba(58, 58, 66, 0.637);
+}
+p{
+    padding: 10px;
+    font-size: 0.8em;
+}
+.img a {
+    font-size: .8em;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+    
+}
+.img{
+    
+    padding: 10px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 300px;
+    
+}
+
+#air{
+    background-image: url(../imagens/avatar1.jpg);
+    background-position: left;
+    text-align: right;
+}
+
+#earth{
+    background-image: url(../imagens/avatar4.jpg);
+    background-position: right;
+}
+#water{
+    background-image: url(../imagens/avatar2.jpg);
+    background-position: left;
+    text-align: right;
+}
+#fire{
+    background-image: url(../imagens/avatar3.jpg);
+    background-position: right;
+}
+ footer{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+ }
+ footer a {
+    color: rgba(0, 0, 0, 0.596);
+    text-decoration: none;
+ }
