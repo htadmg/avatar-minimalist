@@ -1,24 +1,26 @@
 # avatar-minimalist
-Este é um projeto simples que apresenta informações sobre quatro elementos: Ar, Terra, Água e Fogo, cada um com
-## Conteúdo
 
-- `index.html`: Este arquivo contém o código HTML para a página.
-- `estilos/style.css`: Este arquivo contém os estilos CSS para a página.
+## Descrição do Projeto
+Este é um projeto simples que apresenta informações sobre quatro elementos: Ar, Terra, Água e Fogo.
+## Tecnologias Utilizadas
+- **HTML**: Estrutura do conteúdo da página.
+- **CSS**: Estilização e layout da interface.
 
-## Como Visualizar
+## Como Configurar o Projeto
 
-1. Clone ou baixe o repositório para o seu computador.
-2. Abra o arquivo `index.html` em um navegador web para acessar a página sobre os elementos.
+Para executar este projeto localmente, siga os passos abaixo:
 
-## Estrutura do Projeto
-# Conteúdo dos Elementos
-
-- **Ar**: Informações sobre o elemento Ar.
-- **Terra**: Informações sobre o elemento Terra.
-- **Água**: Informações sobre o elemento Água.
-- **Fogo**: Informações sobre o elemento Fogo.
-
-Cada elemento possui uma breve descrição e um link para ler mais detalhes.
-## Autor
-
-- [Agata Domingues Farias](https://github.com/htadmg)
+1. **Clone o Repositório**
+- Usando HTTPS:
+```bash
+git clone https://github.com/htadmg/Fokus-localStorage.git
+```
+- Usando SSH:
+```bash
+git clone git@github.com:htadmg/Fokus-localStorage.git
+```
+- Navegue até o diretório do projeto:
+```bash
+cd .\Fokus-localStorage
+```
+2. **Abra o arquivo index.html no seu navegador**
